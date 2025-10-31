@@ -44,7 +44,7 @@ const Index = () => {
                 Happy Birthday, Aditi!
               </p>
               <p className="text-xs text-muted-foreground/70 italic">
-                Website crafted by your friend — inspired by Demon Slayer ⚔️🌸
+                Forged with courage, kindness, and a hint of anime magic ⚔️🌸
               </p>
             </div>
           </footer>
