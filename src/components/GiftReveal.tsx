@@ -99,13 +99,13 @@ const GiftReveal = () => {
             <div className="bg-card/80 backdrop-blur-sm rounded-3xl p-8 md:p-12 border-4 border-primary/30 shadow-2xl">
               <div className="space-y-6">
                 <p className="text-3xl md:text-4xl font-bold text-gradient-flame font-cinzel">
-                  🎁 Your friendship is the real treasure!
+                  ⚔️ Activate: Total Concentration — Birthday Breathing!
                 </p>
                 
                 <p className="text-xl md:text-2xl text-foreground font-anime leading-relaxed">
-                  No blade can cut the bonds we've forged,
+                  May every day power up your dreams
                   <br />
-                  no demon can dim the light of our friendship.
+                  and every challenge fall before your determination.
                 </p>
 
                 <p className="text-2xl text-primary font-bold font-anime">
